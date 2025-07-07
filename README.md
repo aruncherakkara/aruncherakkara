@@ -29,7 +29,7 @@ A Django-based buy-and-sell platform where users can register, post products, an
 
 ## 📫 Contact Me
 - 📧 arunkumarcherakkara@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌐 www.linkedin.com/in/arunkumar2506
 
 
 
